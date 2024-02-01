@@ -14,9 +14,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#09192A",
-            "#09192A",
-            "#09192A"
+            "#102b47",
+            "#102b47",
+            "#102b47"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -109,9 +109,9 @@
             "#2780E64d"
         ],
         "CHAT_BACKGROUND": [
-            "#00001E",
-            "#00001E",
-            "#00001E"
+            "#00000099",
+            "#00000099",
+            "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef",
@@ -274,9 +274,9 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#0B1E32",
-            "#0B1E32",
-            "#0B1E32"
+            "#102b47",
+            "#102b47",
+            "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
             "#2780E6",
@@ -369,9 +369,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#0850A1",
+            "#0850A1",
+            "#0850A1"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#dcddde",
@@ -384,9 +384,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#B0B0B1",
-            "#B0B0B1",
-            "#B0B0B1"
+            "#C9C9C9",
+            "#C9C9C9",
+            "#C9C9C9"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
@@ -401,7 +401,7 @@
     },
     "rawColors": {
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-        "PRIMARY_100": "#3789E6",
+        "PRIMARY_100": "#16365C",
         "PRIMARY_130": "#dbeafa",
         "PRIMARY_200": "#7eb3f0",
         "PRIMARY_230": "#7eb3f0",
