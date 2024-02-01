@@ -109,8 +109,8 @@
             "#9cf0f04d"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#eeeeee",
+            "#eeeeee"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
             "#3bb8ba",
@@ -121,16 +121,16 @@
             "#affffe"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#eeeeee",
+            "#eeeeee"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
-            "#0000004d",
-            "#0000004d"
+            "#eeeeee",
+            "#eeeeee"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#eeeeee",
+            "#eeeeee"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
             "#020202",
