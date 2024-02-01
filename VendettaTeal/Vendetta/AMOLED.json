@@ -7,6 +7,7 @@
          "id": "466968658997149706"
       }
    ],
+ ],
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#000000"],
@@ -35,21 +36,3 @@
     "iconpack": "md3"
   }
 }
-    "background": {
-        "url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB6cXhzcmZ4dnowdDg3bnhiMjVueTAyYmpuZDJ5d3hzNDh3dTNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2Z6aAm3Z2GdLrHi/giphy.gif"
-    },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
-            "ic_mic_neutral": "#006a68",
-            "ic_mic_muted_neutral": "#006a68",
-            "ic_soundboard":"#006a68",
-            "ic_soundboard_muted": "#006a68",
-            "ic_video": "#006a68",
-            "ic_video_disabled": "#006a68"
-        },
-        "iconpack":"rosiecord-plumpy"
-    },
-    "spec": 2
-            }
