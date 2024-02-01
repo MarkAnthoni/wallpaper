@@ -1,6 +1,6 @@
 {
     "name": "incognito teal v1.0.0",
-    "description": "An Amoled theme based on Vendetta Teal color.",
+    "description": "Un tema modificado por incognito.",
   "authors": [
       {
          "name": "Taki_Shiwa",
@@ -181,8 +181,8 @@
             "#dddddd"
         ],
         "HEADER_SECONDARY": [
-            "#489e9d",
-            "#489e9d"
+            "#b5b5b5",
+            "#b5b5b5"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#3bb8ba",
@@ -329,8 +329,8 @@
             "#80d4d2"
         ],
         "TEXT_NORMAL": [
-            "#affffe",
-            "#affffe"
+            "#fcffff",
+            "#fcffff"
         ],
         "TEXT_POSITIVE": [
             "#3bb8ba",
