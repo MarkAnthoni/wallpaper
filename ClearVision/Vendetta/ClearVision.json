@@ -14,9 +14,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#102b47",
-            "#102b47",
-            "#102b47"
+            "#09192A",
+            "#09192A",
+            "#09192A"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -109,9 +109,9 @@
             "#2780E64d"
         ],
         "CHAT_BACKGROUND": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#00001E",
+            "#00001E",
+            "#00001E"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef",
@@ -274,9 +274,9 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#102b47",
-            "#102b47",
-            "#102b47"
+            "#0B1E32",
+            "#0B1E32",
+            "#0B1E32"
         ],
         "INTERACTIVE_ACTIVE": [
             "#2780E6",
@@ -384,9 +384,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#dcddde",
-            "#dcddde",
-            "#dcddde"
+            "#B0B0B1",
+            "#B0B0B1",
+            "#B0B0B1"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
