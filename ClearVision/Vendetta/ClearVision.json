@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#86b4ea",
-            "#86b4ea",
-            "#86b4ea"
+            "#081a2e",
+            "#081a2e",
+            "#081a2e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
@@ -284,9 +284,9 @@
             "#2780E6"
         ],
         "INTERACTIVE_HOVER": [
-            "#061428",
+            "#062528",
             "#665c54",
-            "#061428"
+            "#062528"
         ],
         "INTERACTIVE_MUTED": [
             "#3f414c",
