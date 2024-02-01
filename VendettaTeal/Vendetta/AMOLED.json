@@ -389,6 +389,9 @@
         "WHITE_500": "#affffe",
         "YELLOW_300": "#27A4A6"
     },
+    "background": {
+        "url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB6cXhzcmZ4dnowdDg3bnhiMjVueTAyYmpuZDJ5d3hzNDh3dTNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2Z6aAm3Z2GdLrHi/giphy.gif"
+    },
     "plus": {
         "version": 0,
         "customOverlays": true,
