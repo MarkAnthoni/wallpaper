@@ -31,10 +31,10 @@
     "PLUM_20": "#000000"
   },
   "background": {
-        "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3MyaHV5aHd1MmFkZzRqM3NrbmhmZnZoaW5qdHZ1MWZmYThkZGp4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1154CgmtPPa4lq/giphy.gif"
+        "url": "https://i.gifer.com/QBnX.gif"
     },
   "plus": {
     "version": "0",
-    "iconpack": "md3"
+    "iconpack": "rosiecord-plumpy"
   }
 }
