@@ -1,6 +1,6 @@
 {
-  "name": "System black theme",
-  "description": "Black theme in \"automatic\" dark theme",
+  "name": "incognito black theme",
+  "description": "tema oscuro, editado por incognito",
   "authors": [
     {
       "name": "Mylloon",
@@ -31,7 +31,7 @@
     "PLUM_20": "#000000"
   },
   "background": {
-        "url": "https://media2.giphy.com/media/1154CgmtPPa4lq/giphy.gif?cid=ecf05e470ccqgzpranp0iu2s5xc8ya1cz72gy7yfc5nmaa63&ep=v1_gifs_related&rid=giphy.gif&ct=g"
+        "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3MyaHV5aHd1MmFkZzRqM3NrbmhmZnZoaW5qdHZ1MWZmYThkZGp4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1154CgmtPPa4lq/giphy.gif"
     },
   "plus": {
     "version": "0",
